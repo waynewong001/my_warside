@@ -1,3 +1,0 @@
-E:/my_warside/build/CMakeFiles/my_warside_bin.dir
-E:/my_warside/build/CMakeFiles/edit_cache.dir
-E:/my_warside/build/CMakeFiles/rebuild_cache.dir
